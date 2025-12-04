@@ -1,0 +1,13 @@
+{
+  "domain": "epever_modbus",
+  "name": "Epever Modbus",
+  "version": "0.0.1",
+  "config_flow": true,
+  "documentation": "",
+  "dependencies": [],
+  "requirements": [],
+  "codeowners": ["timmchugh11"],
+  "loggers": [
+    "custom_components.epever_modbus"
+  ]
+}
